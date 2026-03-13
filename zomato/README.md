@@ -99,9 +99,6 @@ This application follows object-oriented design principles with the following pa
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Build Notes
 
