@@ -1,0 +1,4 @@
+main.cpp: In function 'int main()':
+main.cpp:26:5: error: 'tomato' was not declared in this scope
+     tomato->selectRestaurant(user, restaurantList[0]);
+     ^~~~~~
